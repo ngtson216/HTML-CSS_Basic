@@ -1,0 +1,22 @@
+/* * {
+    color: rgba(0, 226, 94, 0.658);
+}
+Universal selector */ 
+
+html {
+    color: violet;
+}
+/* inherited selector*/
+
+li {
+    color: red;
+} 
+/* Tag selector */
+
+h1 {
+    color: green !important;
+} 
+
+h1 {
+    color: red;
+} 
